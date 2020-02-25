@@ -43,3 +43,5 @@ require (
 )
 
 replace github.com/eikenb/pipeat v0.0.0-20190316224601-fb1f3a9aa29f => github.com/drakkan/pipeat v0.0.0-20200123131427-11c048cfc0ec
+
+replace golang.org/x/crypto => github.com/drakkan/crypto v0.0.0-20200211081002-cc78d71334be

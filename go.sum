@@ -65,6 +65,8 @@ github.com/drakkan/pipeat v0.0.0-20200123131427-11c048cfc0ec h1:DXfzg1NXoesnFzdC
 github.com/drakkan/pipeat v0.0.0-20200123131427-11c048cfc0ec/go.mod h1:wNYvIpR5rIhoezOYcpxcXz4HbIEOu7A45EqlQCA+h+w=
 github.com/drakkan/sftp v0.0.0-20200217072548-e50dec9f7639 h1:HzSgrK2FRFmDSPax7ElpX/W0ywcRs0RdIdr5C+HHcZU=
 github.com/drakkan/sftp v0.0.0-20200217072548-e50dec9f7639/go.mod h1:lYOWFsE0bwd1+KfKJaKeuokY15vzFx25BLbzYYoAxZI=
+github.com/drakkan/sftp v0.0.0-20200227085621-6b4abaad1b9a h1:tAcPnn+HYPv94IxeYd8r7u2xHjaA5NUvD6+P8pzEikQ=
+github.com/drakkan/sftp v0.0.0-20200227085621-6b4abaad1b9a/go.mod h1:lYOWFsE0bwd1+KfKJaKeuokY15vzFx25BLbzYYoAxZI=
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
 github.com/envoyproxy/protoc-gen-validate v0.1.0/go.mod h1:iSmxcyjqTsJpI2R4NaDN7+kN2VEUnK/pcBlmesArF7c=
 github.com/fsnotify/fsnotify v1.4.7 h1:IXs+QLmnXW2CcXuY+8Mzv/fWEsPGWxqefPtCP5CnV9I=

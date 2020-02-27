@@ -46,4 +46,4 @@ replace github.com/eikenb/pipeat v0.0.0-20190316224601-fb1f3a9aa29f => github.co
 
 replace golang.org/x/crypto => github.com/drakkan/crypto v0.0.0-20200211081002-cc78d71334be
 
-replace github.com/pkg/sftp => github.com/drakkan/sftp v0.0.0-20200217072548-e50dec9f7639
+replace github.com/pkg/sftp => github.com/drakkan/sftp v0.0.0-20200227085621-6b4abaad1b9a
